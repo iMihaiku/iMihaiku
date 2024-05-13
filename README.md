@@ -8,10 +8,27 @@
 -   ⚡ Mainly focused on Js/Ts
 -   🎓 More than 8 years since my first steps on the industry
 -   👯 Over 3 years working in teams
--   📫 Contact me through linkedin: ![Personal Linkedin](https://img.shields.io/badge/Linkedin-blue?style=social&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjlbaquerinrojo%2F)
+-   📫 Contact me through linkedin: <a href="https://www.linkedin.com/in/jlbaquerinrojo/">![Personal Linkedin](https://img.shields.io/badge/Linkedin-blue?style=social&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjlbaquerinrojo%2F)</a>
 
-
+### 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=TypeScript)
+![Node.Js](https://img.shields.io/badge/NodeJs-grey?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=Express)
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React)
+![Next.Js](https://img.shields.io/badge/Next.Js-grey?style=for-the-badge&logo=Next.js)
+![VueJs](https://img.shields.io/badge/Vue.Js-grey?style=for-the-badge&logo=Vue.js)
+![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=Git)
+![Github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github)
+
+
+![MySQL](https://img.shields.io/badge/MySQL-%2325c2a0?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2325c2a0?style=for-the-badge&logo=MongoDb&logoColor=black)
+![Firebase](https://img.shields.io/badge/FireBase-%2325c2a0?style=for-the-badge&logo=firebase)
+
+![HTML5](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=CSS3&logoColor=black)
+
 
 
 <!--
