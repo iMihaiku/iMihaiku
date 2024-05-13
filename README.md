@@ -22,7 +22,7 @@
 ![Github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github)
 
 
-![MySQL](https://img.shields.io/badge/MySQL-%235b9b63?style=for-the-badge&logo=MySQL)
+![MySQL](https://img.shields.io/badge/MySQL-%235b9b63?style=for-the-badge&logo=MySQL&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%235b9b63?style=for-the-badge&logo=MongoDb&logoColor=black)
 ![Firebase](https://img.shields.io/badge/FireBase-%235b9b63?style=for-the-badge&logo=firebase)
 
