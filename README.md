@@ -22,9 +22,9 @@
 ![Github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github)
 
 
-![MySQL](https://img.shields.io/badge/MySQL-%2325c2a0?style=for-the-badge&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2325c2a0?style=for-the-badge&logo=MongoDb&logoColor=black)
-![Firebase](https://img.shields.io/badge/FireBase-%2325c2a0?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-%235b9b63?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-%235b9b63?style=for-the-badge&logo=MongoDb&logoColor=black)
+![Firebase](https://img.shields.io/badge/FireBase-%235b9b63?style=for-the-badge&logo=firebase)
 
 ![HTML5](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=CSS3&logoColor=black)
